@@ -17,9 +17,6 @@ function App() {
       <Route path="/dealer/:id" element={<Dealer/>} />
       <Route path="/postreview/:id" element={<PostReview/>} />
 
-
-      
-
     </Routes>
   );
 }
